@@ -1,6 +1,6 @@
 {
   "name": "os-sass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,8 @@
   "homepage": "https://github.com/aasilva/OS-sass#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-bump": "^2.8.0",
+    "gulp-git-push": "^1.0.1",
     "gulp-sass": "^3.1.0"
   }
 }
